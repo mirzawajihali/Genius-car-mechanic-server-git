@@ -69,7 +69,7 @@ run().catch(console.dir)
 
 
 app.get("/", (req, res) => {
-    res.send("running genius car mechanic server")
+    res.send("running car mechanic server. hello hunny bunny")
 })
 
 
